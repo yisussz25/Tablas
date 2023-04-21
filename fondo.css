@@ -1,4 +1,3 @@
-table,html{
-    background-repeat: no-repeat; background-image: url(fonfo.jpg);
-
+body,html{
+    background-image: url(img/fonfo.jpg);
 }
