@@ -5,3 +5,9 @@ html{
     background: -moz-linear-gradient(left, #03546d 0%, #53008a 100%); /* FF3.6-15 */
     background: -webkit-linear-gradient(left, #03546d 0%,#53008a 100%); /* Chrome10-25,Safari5.1-6 */
 }
+header{
+    background-image: url(img/shenron-dragon-ball-z.gif);
+}
+footer{
+    background-image: url(img/aesthetic-minecraft.gif);
+}
