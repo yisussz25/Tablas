@@ -2,20 +2,29 @@ table{
 
     background-image: url(img/fondo\ pan.webp);
     box-shadow: 0 0 50px;
-    border: 6px solid black
-    
-    
+    border: 6px solid black    
 }
 
 th{
     animation-duration: 19ms;
     border: 5px  solid  black;
     color: aliceblue;
-
 }
 
 td{
     border: 3px  solid  black;
     width: 400px; height: 250px;
     color: aquamarine;
+}
+
+form{
+    width: 200px; height: 100px;
+}
+menu{
+    width: 200px; height: 100px;
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+    margin-bottom: 0;
+    gap: 1em;
 }
